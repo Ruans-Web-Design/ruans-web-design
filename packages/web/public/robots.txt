@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Preview: enable crawling only after launch details are configured.
