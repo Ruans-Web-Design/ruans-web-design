@@ -1,4 +1,8 @@
-# App template
+# Ruan’s Web Design
+
+Start with the [project handover](docs/HANDOVER.md) for approved pricing, design decisions, launch status, conversation transcript and source audit.
+
+## Development template
 
 Runable copies this Bun and Turborepo project into each new sandbox.
 
